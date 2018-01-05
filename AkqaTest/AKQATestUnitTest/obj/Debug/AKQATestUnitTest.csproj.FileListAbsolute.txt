@@ -1,0 +1,7 @@
+C:\project\AkqaTest\AKQATestUnitTest\bin\Debug\AKQATestUnitTest.dll
+C:\project\AkqaTest\AKQATestUnitTest\bin\Debug\AKQATestUnitTest.pdb
+C:\project\AkqaTest\AKQATestUnitTest\bin\Debug\AkqaTest.dll
+C:\project\AkqaTest\AKQATestUnitTest\bin\Debug\AkqaTest.pdb
+C:\project\AkqaTest\AKQATestUnitTest\obj\Debug\AKQATestUnitTest.csprojResolveAssemblyReference.cache
+C:\project\AkqaTest\AKQATestUnitTest\obj\Debug\AKQATestUnitTest.dll
+C:\project\AkqaTest\AKQATestUnitTest\obj\Debug\AKQATestUnitTest.pdb
